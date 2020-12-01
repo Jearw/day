@@ -41,4 +41,13 @@ table {
     padding: 5px; 
     border: 1px solid white; 
    }
-   
+   .telo{
+    background-image: url(giphy2.gif);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+    .telo1{
+    background-image: url(giphy.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
